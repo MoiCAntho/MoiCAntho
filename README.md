@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 
 
-<p align=center> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&layout=compact&theme=dark)](https://github.com/MoiCAntho/github-readme-stats)>
+<p align=center> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&layout=compact&theme=dark>
 </p>
 
 
