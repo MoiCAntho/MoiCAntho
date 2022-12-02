@@ -6,8 +6,6 @@
 - 📫 How to reach me ...
 
 
-<p align=center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MoiCAntho&amp;theme=dark">
-</p>
 
 
 
