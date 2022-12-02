@@ -6,8 +6,9 @@
 - 📫 How to reach me ...
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&amp;theme=react" alt="thomas's wakatime stats">
+</p>
 
 
 
