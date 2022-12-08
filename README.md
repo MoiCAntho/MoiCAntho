@@ -7,10 +7,9 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MoiCAntho&amp;theme=dark">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
