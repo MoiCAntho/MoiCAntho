@@ -10,6 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MoiCAntho&amp;theme=dark">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
