@@ -10,9 +10,7 @@
 
 
 
-<p align="center">
-
-</p>
+<img align="left" alt="MoiCAntho's languages" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&theme=tokyonight">
 
 
 
