@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<img align="center" alt="MoiCAntho's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&theme=tokyonight">
+<p allign=center>
+  <img align="center" alt="MoiCAntho's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&theme=tokyonight">
 
 
 
