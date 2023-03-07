@@ -6,6 +6,8 @@
 - 👀 I’m little colorblind in physics
 - 🧪 I'm interested in sciences generally speaking : Maths, biology, meterology, botany, taxonomy and physics of course
 - 🏫 I’m currently student at University Grenoble Alpes (UGA)
+<img src="https://latex.codecogs.com/gif.latex?\rho\left(\frac{\partial \overrightarrow{v}}{\partial t}+(\overrightarrow{v}\cdot\overrightarrow{\nabla})\overrightarrow{v} \right )=-\overrightarrow{\nabla}P+\mu\overrightarrow{\Delta}\overrightarrow{v}+\overrightarrow{f}_{ext}">
+
 
 <p align=center>
   <img alt="MoiCAntho's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&theme=tokyonight">
