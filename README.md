@@ -9,7 +9,7 @@
 
 The most beautiful equations :
 
-$$\begin{cases}\overrightarrow{\nabla}\cdot\overrightarrow{E}=\displaystyle\frac{\rho}{\varepsilon_0}\\ \overrightarrow{\nabla}\land\overrightarrow{E}=\displaystyle\frac{\partial \overrightarrow{B}}{\partial t}\\ \overrightarrow{\nabla}\cdot\overrightarrow{B}=0\\ \overrightarrow{\nabla}\land\overrightarrow{B}=\displaystyle\mu_0\left(\overrightarrow{j}+\varepsilon_0\frac{\partial\overrightarrow{E}}{\partial t}\right)\end{cases}$$
+$$\begin{cases}\overrightarrow{\nabla}\cdot\overrightarrow{E}=\displaystyle\frac{\rho}{\varepsilon_0} \\ \overrightarrow{\nabla}\land\overrightarrow{E}=\displaystyle\frac{\partial \overrightarrow{B}}{\partial t} \\ \overrightarrow{\nabla}\cdot\overrightarrow{B}=0 \\ \overrightarrow{\nabla}\land\overrightarrow{B}=\displaystyle\mu_0\left(\overrightarrow{j}+\varepsilon_0\frac{\partial\overrightarrow{E}}{\partial t}\right)\end{cases}$$
 
 
 $$\rho\left(\frac{\partial \overrightarrow{v}}{\partial t}+(\overrightarrow{v}\cdot\overrightarrow{\nabla})\overrightarrow{v} \right )=-\overrightarrow{\nabla}P+\mu\overrightarrow{\Delta}\overrightarrow{v}+\overrightarrow{f}_{ext}$$
