@@ -4,7 +4,7 @@
 </div>
 
 - 👀 I’m little colorblind in physics
-- 🧪 I'm interested in sciences generally speaking : Maths, biology, meterology, botany, taxonomy and physics of course
+- 🧪 I'm interested in sciences generally speaking : Maths, chemistry, biology, meterology, botany, taxonomy and physics of course
 - 🏫 I’m currently student at University Grenoble Alpes (UGA)
 
 The most beautiful equations :
