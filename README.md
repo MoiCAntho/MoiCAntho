@@ -7,7 +7,8 @@
 - 🧪 I'm interested in sciences generally speaking : Maths, biology, meterology, botany, taxonomy and physics of course
 - 🏫 I’m currently student at University Grenoble Alpes (UGA)
 
-The most beautiful equations :
+The most beautiful equations :  
+
 $$\begin{cases}\overrightarrow{\nabla}\cdot\overrightarrow{E}=\displaystyle\frac{\rho}{\varepsilon_0}\\\overrightarrow{\nabla}\land\overrightarrow{E}=\displaystyle\frac{\partial \overrightarrow{B}}{\partial t}\\\overrightarrow{\nabla}\cdot\overrightarrow{B}=0\\\overrightarrow{\nabla}\land\overrightarrow{B}=\displaystyle\mu_0\left(\overrightarrow{j}+\varepsilon_0\frac{\partial\overrightarrow{E}}{\partial t}\right)\end{cases}$$
 
 
@@ -43,4 +44,3 @@ Moisis dans du vert-de-gris."
 
 The recipe in video by Amonbofis and Tournevis :  
 <iframe width="500" height="320" src="https://www.youtube.com/watch?v=qOTQ9NJXAvE"> </iframe>
-  </body>
