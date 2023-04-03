@@ -43,4 +43,6 @@ Décorez de fruits confits,
 Moisis dans du vert-de-gris."  
 
 The recipe in video by Amonbofis and Tournevis :  
-<iframe width="500" height="320" src="https://www.youtube.com/watch?v=qOTQ9NJXAvE"> </iframe>
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/qOTQ9NJXAvE">
+</iframe>
