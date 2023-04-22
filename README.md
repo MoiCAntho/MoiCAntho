@@ -23,7 +23,7 @@ $$\rho\left(\frac{\partial \overrightarrow{v}}{\partial t}+(\overrightarrow{v}\c
 ## Others
 ### 🍰 Recipe of the pudding at the arsenic 🍰 
 "Dans un grand bol de strychnine,  
-délayer de la morphine,  
+Délayer de la morphine,  
 Faites tiédir à la casserole,  
 Un bon verre de pétrole,  
 Quelques gouttes de ciguë,  
@@ -44,5 +44,4 @@ Moisis dans du vert-de-gris."
 
 The recipe in video by Amonbofis and Tournevis :  
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/qOTQ9NJXAvE">
-</iframe>
+https://user-images.githubusercontent.com/100199425/233789204-eccca4bd-9de4-4c8f-aade-2a6d7e4e3539.mp4
