@@ -1,4 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <div align=center>
 <img src="https://emoji.discadia.com/emojis/703ec809-d29e-4a1d-b08d-d787ef3de445.gif"> <h1> Hey, I’m @MoiCAntho</h1>
 <a align=center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&center=FAUX&vCenter=FAUX&repeat=true&width=435&lines=I'm+interested+in+anything+and+everything" alt="Typing SVG" /></a>
