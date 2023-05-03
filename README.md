@@ -26,7 +26,7 @@ $$\rho\left(\frac{\partial \overrightarrow{v}}{\partial t}+(\overrightarrow{v}\c
   <img alt="MoiCAntho's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCAntho&theme=tokyonight">
 
 ## Others
-### 🍰 Recipe of the pudding at the arsenic 🍰 
+### 🍰 Recipe of the arsenic pudding 🍰 
 "Dans un grand bol de strychnine,  
 Délayer de la morphine,  
 Faites tiédir à la casserole,  
