@@ -7,6 +7,8 @@
 - 🧪 I'm interested in sciences generally speaking : Maths, biology, meterology, botany, taxonomy and physics of course
 - 🏫 I’m currently student at University Grenoble Alpes (UGA)
 
+[Linktree](https://linktr.ee/moicantho)
+
 The most beautiful equations :  
 
 $$\begin{cases}
