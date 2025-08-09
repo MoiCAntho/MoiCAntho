@@ -21,7 +21,7 @@ $$\begin{cases}
 
 $$\rho\left(\frac{\partial \overrightarrow{v}}{\partial t}+(\overrightarrow{v}\cdot\overrightarrow{\nabla})\overrightarrow{v} \right )=-\overrightarrow{\nabla}P+\mu\overrightarrow{\Delta}\overrightarrow{v}+\overrightarrow{f}_{ext}$$
 
-$$i\hbar\frac{\partial\psi}{\partial t}=\Hat{H}\psi$$
+$$i\hbar\frac{\partial\psi}{\partial t}=\hat{H}\psi$$
 
 ## 📈 GitHub Stats
 
